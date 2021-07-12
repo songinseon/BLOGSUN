@@ -1,0 +1,15 @@
+/* 폰트불러오기 */
+@font-face {
+  font-family: 'NEXONFootballGothicLA1';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXONFootballGothicLA1.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: 'NEXONFootballGothicLA1';
+}
+
+body {
+  background-color: lightgrey;
+}
